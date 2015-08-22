@@ -6,9 +6,9 @@ A MapleStory trainer.
 
 - This trainer dominated the Global MapleStory public hacking scene from versions 128 to 140.
 
-Enjoy.
+Credits: Andrew Justin Solesa (https://github.com/Shrooms)
 
-http://maplestory.nexon.net/
+References: http://maplestory.nexon.net/
 
 ===
 
